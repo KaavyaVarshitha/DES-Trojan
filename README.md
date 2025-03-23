@@ -29,7 +29,7 @@ DES Trojan | [Vangumalla Sowmya Reddy](https://www.linkedin.com/in/reddy-sowmya-
 
 Version|Date|Comments
 -------|----|--------
-1.0|Dec 2023|Final 
+1.0|Dec 2024|Final 
 
 
 
